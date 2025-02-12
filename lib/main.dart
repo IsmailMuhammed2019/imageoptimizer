@@ -74,7 +74,7 @@ class _ImageOptimizationScreenState extends State<ImageOptimizationScreen> {
       appBar: AppBar(
         backgroundColor: Colors.black,
         title: const Text(
-          'Image Optimization',
+          'Image Optimization Demo',
           textAlign: TextAlign.center,
         ),
         titleTextStyle: TextStyle(
