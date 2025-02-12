@@ -125,7 +125,7 @@ class _ImageOptimizationScreenState extends State<ImageOptimizationScreen> {
                         ),
                         const SizedBox(height: 10),
                         Text('Size: $imageSizeInKB KB'),
-                        const SizedBox(height: 10),
+                        const SizedBox(height: 40),
                         ElevatedButton(
                           onPressed: () {
                             final xFile = XFile(images[index].path);
